@@ -2,11 +2,11 @@
 
 파일을 넣고 필요한 작업을 누르면 결과를 저장하는 Windows 이미지·영상 앱입니다.
 
-## [VORA 0.3.9 설치 파일 다운로드](https://github.com/noodle0845/vora-releases/releases/download/v0.3.9/VORA_0.3.9_x64-setup.exe)
+## [VORA 0.3.10 설치 파일 다운로드](https://github.com/noodle0845/vora-releases/releases/download/v0.3.10/VORA_0.3.10_x64-setup.exe)
 
 **Windows 10/11 · 64비트 · 약 376MB**
 
-위 링크에서 `VORA_0.3.9_x64-setup.exe` 파일을 받은 뒤 실행하세요.
+위 링크에서 `VORA_0.3.10_x64-setup.exe` 파일을 받은 뒤 실행하세요.
 
 - 이미지: AI 업스케일, 배경 제거, 일괄 용량 최적화
 - 영상: 다운로드, 프레임 추출, AI 업스케일, 용량 최적화
